@@ -2,4 +2,4 @@
 //  BSTree.cpp
 //  Algorithm
 //
-//  Created by Freya
+//  Created by Freya Hay
