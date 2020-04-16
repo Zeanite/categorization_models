@@ -9,4 +9,4 @@
 #include "BSTree.h"
 #include <iostream>
 
-BSTree
+BSTree::B
