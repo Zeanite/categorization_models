@@ -10,4 +10,4 @@
 #include <iostream>
 
 BSTree::BSTree() {
-	root = nul
+	root = nullptr;
