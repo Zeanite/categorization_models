@@ -11,3 +11,6 @@
 
 BSTree::BSTree() {
 	root = nullptr;
+}
+
+BSTree
