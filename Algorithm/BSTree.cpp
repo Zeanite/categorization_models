@@ -15,3 +15,6 @@ BSTree::BSTree() {
 
 BSTree::~BSTree() {
 	
+}
+
+B
