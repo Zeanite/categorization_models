@@ -17,4 +17,4 @@ BSTree::~BSTree() {
 	
 }
 
-B
+BSTree
