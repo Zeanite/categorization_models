@@ -17,4 +17,4 @@ BSTree::~BSTree() {
 	
 }
 
-BSTree::Node * BSTree::add(
+BSTree::Node * BSTree::add(int 
