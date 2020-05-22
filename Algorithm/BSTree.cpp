@@ -18,4 +18,4 @@ BSTree::~BSTree() {
 }
 
 BSTree::Node * BSTree::add(int key) {
-	Node
+	Node * h =
