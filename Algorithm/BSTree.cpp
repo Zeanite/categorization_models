@@ -19,4 +19,5 @@ BSTree::~BSTree() {
 
 BSTree::Node * BSTree::add(int key) {
 	Node * h = new Node;
-	h->value 
+	h->value = key;
+	
