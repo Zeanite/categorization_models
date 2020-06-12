@@ -21,4 +21,5 @@ BSTree::Node * BSTree::add(int key) {
 	Node * h = new Node;
 	h->value = key;
 	h->right = h->left = nullptr;
-	h->grade 
+	h->grade = 0;
+	
