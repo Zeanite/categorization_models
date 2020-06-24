@@ -23,4 +23,4 @@ BSTree::Node * BSTree::add(int key) {
 	h->right = h->left = nullptr;
 	h->grade = 0;
 	if(root == nullptr) {
-		root
+		root = h;
