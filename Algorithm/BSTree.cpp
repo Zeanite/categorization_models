@@ -25,3 +25,5 @@ BSTree::Node * BSTree::add(int key) {
 	if(root == nullptr) {
 		root = h;
 		return root;
+	}
+	re
