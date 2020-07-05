@@ -26,4 +26,4 @@ BSTree::Node * BSTree::add(int key) {
 		root = h;
 		return root;
 	}
-	re
+	return a
