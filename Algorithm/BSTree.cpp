@@ -28,3 +28,4 @@ BSTree::Node * BSTree::add(int key) {
 	}
 	return add(h, root);
 }
+
