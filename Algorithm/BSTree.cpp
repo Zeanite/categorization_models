@@ -32,4 +32,4 @@ BSTree::Node * BSTree::add(int key) {
 BSTree::Node * BSTree::add(Node * h, Node * to) {
 	Node * head = to;
 	while(head != nullptr) {
-		if(h->value < he
+		if(h->value < head->v
