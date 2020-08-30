@@ -34,4 +34,4 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 	while(head != nullptr) {
 		if(h->value < head->value) {
 			if (head->left == nullptr) {
-				head
+				head->left
