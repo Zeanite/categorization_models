@@ -35,4 +35,4 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 		if(h->value < head->value) {
 			if (head->left == nullptr) {
 				head->left = h;
-				h->parent 
+				h->parent = h
