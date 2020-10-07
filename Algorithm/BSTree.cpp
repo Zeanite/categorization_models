@@ -40,4 +40,4 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 			}
 			else head = head->left;
 		}
-		
+		else 
