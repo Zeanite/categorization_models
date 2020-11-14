@@ -42,3 +42,4 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 		}
 		else {
 			if (head->right == nullptr) {
+				
