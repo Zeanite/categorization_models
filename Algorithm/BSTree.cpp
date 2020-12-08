@@ -46,4 +46,4 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 				h->parent = head;
 				head = nullptr;
 			}
-			else head = h
+			else head = head-
