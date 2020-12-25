@@ -50,4 +50,5 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 		}
 	}
 	spreadUp(h);
-	return 
+	return h;
+}
