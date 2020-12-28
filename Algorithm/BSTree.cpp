@@ -54,4 +54,4 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 }
 
 
-void BSTr
+void BSTree::sp
