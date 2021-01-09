@@ -55,4 +55,4 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 
 
 void BSTree::spreadUp(BSTree::Node * node) {
-	if (n
+	if (node
