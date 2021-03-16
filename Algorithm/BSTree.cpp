@@ -57,4 +57,5 @@ BSTree::Node * BSTree::add(Node * h, Node * to) {
 void BSTree::spreadUp(BSTree::Node * node) {
 	if (node == nullptr) return;
 	int l = 0, r = 0;
-	if (node->left != nullptr) l = node->left->grade +
+	if (node->left != nullptr) l = node->left->grade + 1;
+	if 
