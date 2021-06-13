@@ -61,3 +61,4 @@ void BSTree::spreadUp(BSTree::Node * node) {
 	if (node->right != nullptr) r = node->right->grade + 1;
 	int diff = l - r;
 	node->grade = l > r ? l : r;
+	if
