@@ -68,4 +68,4 @@ void BSTree::spreadUp(BSTree::Node * node) {
 		if (node->parent == nullptr) {
 			root = left;
 		}
-		else if(node->parent->l
+		else if(node->parent->left
