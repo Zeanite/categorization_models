@@ -77,4 +77,4 @@ void BSTree::spreadUp(BSTree::Node * node) {
 		add(node, root);
 	}
 	else if (diff < -1) {
-	
+		Nod
