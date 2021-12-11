@@ -78,4 +78,4 @@ void BSTree::spreadUp(BSTree::Node * node) {
 	}
 	else if (diff < -1) {
 		Node * right = node->right;
-		node->right = 
+		node->right = nullptr;
