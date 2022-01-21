@@ -89,4 +89,4 @@ void BSTree::spreadUp(BSTree::Node * node) {
 		else {
 			node->parent->right = right;
 		}
-		add(nod
+		add(node, r
