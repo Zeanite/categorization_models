@@ -91,3 +91,4 @@ void BSTree::spreadUp(BSTree::Node * node) {
 		}
 		add(node, root);
 	}
+	else
