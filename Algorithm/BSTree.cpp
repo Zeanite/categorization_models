@@ -93,4 +93,4 @@ void BSTree::spreadUp(BSTree::Node * node) {
 	}
 	else {
 		node->grade = l > r ? l : r;
-		if(node->pa
+		if(node->pare
