@@ -95,3 +95,6 @@ void BSTree::spreadUp(BSTree::Node * node) {
 		node->grade = l > r ? l : r;
 		if(node->parent != nullptr) spreadUp(node->parent);
 	}
+}
+
+BS
