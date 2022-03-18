@@ -97,4 +97,5 @@ void BSTree::spreadUp(BSTree::Node * node) {
 	}
 }
 
-BSTree::Node * BSTree::getRoot() 
+BSTree::Node * BSTree::getRoot() {
+	re
