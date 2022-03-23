@@ -101,4 +101,4 @@ BSTree::Node * BSTree::getRoot() {
 	return root;
 }
 
-void BSTree::s
+void BSTree::set
