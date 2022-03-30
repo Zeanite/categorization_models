@@ -102,4 +102,4 @@ BSTree::Node * BSTree::getRoot() {
 }
 
 void BSTree::setRoot(BSTree::Node * root) {
-	this->
+	this->root
