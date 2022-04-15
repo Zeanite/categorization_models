@@ -105,4 +105,5 @@ void BSTree::setRoot(BSTree::Node * root) {
 	this->root = root;
 }
 
-bool BSTree::search(int key
+bool BSTree::search(int key) {
+	No
