@@ -109,4 +109,4 @@ bool BSTree::search(int key) {
 	Node * head = root;
 	while (head != nullptr) {
 		if (head->value == key) return true;
-		else if(head->
+		else if(head->value
