@@ -112,4 +112,4 @@ bool BSTree::search(int key) {
 		else if(head->value < key) head = head->right;
 		else head = head->left;
 	}
-	return f
+	return false
