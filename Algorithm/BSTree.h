@@ -9,3 +9,8 @@
 
 #ifndef __Algorithm__BSTree__
 #define __Algorithm__BSTree__
+
+class BSTree {
+public:
+	struct Node {
+		int value, grade;
