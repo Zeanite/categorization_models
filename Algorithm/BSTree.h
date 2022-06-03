@@ -14,3 +14,7 @@ class BSTree {
 public:
 	struct Node {
 		int value, grade;
+		Node * parent;
+		Node * left, * right;
+	};
+	BSTree();
