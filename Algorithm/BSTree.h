@@ -18,3 +18,6 @@ public:
 		Node * left, * right;
 	};
 	BSTree();
+	~BSTree();
+	Node * add(int key);
+	Node * add(Node * node, Node * dest);
