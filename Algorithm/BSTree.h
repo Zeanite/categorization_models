@@ -24,3 +24,7 @@ public:
 	void spreadUp(Node * node);
 	Node * getRoot();
 	void setRoot(Node * root);
+	bool search(int key);
+private:
+	Node * root;
+};
