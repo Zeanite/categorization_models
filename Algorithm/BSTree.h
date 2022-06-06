@@ -28,3 +28,5 @@ public:
 private:
 	Node * root;
 };
+
+#endif /* defined(__Algorithm__BSTree__) */
