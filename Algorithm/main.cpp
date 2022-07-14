@@ -2,4 +2,4 @@
 //  main.cpp
 //  Algorithm
 //
-//  Created by Freya H
+//  Created by Freya Hayashi
