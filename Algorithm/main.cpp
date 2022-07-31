@@ -3,4 +3,4 @@
 //  Algorithm
 //
 //  Created by Freya Hayashi on 1/20/17.
-//  Copyright (c) 20
+//  Copyright (c) 2017 Fr
