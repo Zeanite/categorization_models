@@ -6,4 +6,5 @@
 //  Copyright (c) 2017 Freya Hayashi. All rights reserved.
 //
 
-#include <iostrea
+#include <iostream>
+#
