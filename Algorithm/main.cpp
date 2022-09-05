@@ -10,4 +10,4 @@
 #include <vector>
 #include "BSTree.h"
 
-int main(int argc, const char * a
+int main(int argc, const char * argv[]) {
