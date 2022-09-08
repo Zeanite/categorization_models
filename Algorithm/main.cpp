@@ -11,4 +11,4 @@
 #include "BSTree.h"
 
 int main(int argc, const char * argv[]) {
-	std::vector<BSTr
+	std::vector<BSTree::
