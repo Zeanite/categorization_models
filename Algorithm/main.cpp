@@ -12,4 +12,4 @@
 
 int main(int argc, const char * argv[]) {
 	std::vector<BSTree::Node*> v;
-	B
+	BSTree tre
