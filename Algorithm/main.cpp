@@ -13,4 +13,5 @@
 int main(int argc, const char * argv[]) {
 	std::vector<BSTree::Node*> v;
 	BSTree tree;
-	while(1)
+	while(1) {
+	
