@@ -15,4 +15,4 @@ int main(int argc, const char * argv[]) {
 	BSTree tree;
 	while(1) {
 		int value;
-		s
+		std::ci
