@@ -16,4 +16,4 @@ int main(int argc, const char * argv[]) {
 	while(1) {
 		int value;
 		std::cin >> value;
-		v.push_back(tr
+		v.push_back(tree.a
