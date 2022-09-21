@@ -17,4 +17,4 @@ int main(int argc, const char * argv[]) {
 		int value;
 		std::cin >> value;
 		v.push_back(tree.add(value));
-		printf("
+		printf("%d\n",
