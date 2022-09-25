@@ -18,4 +18,5 @@ int main(int argc, const char * argv[]) {
 		std::cin >> value;
 		v.push_back(tree.add(value));
 		printf("%d\n", tree.getRoot()->value);
-	
+	}
+	re
