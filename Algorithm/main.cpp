@@ -19,4 +19,4 @@ int main(int argc, const char * argv[]) {
 		v.push_back(tree.add(value));
 		printf("%d\n", tree.getRoot()->value);
 	}
-	re
+	return 0;
