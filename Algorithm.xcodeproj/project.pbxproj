@@ -11,3 +11,7 @@
 		3BE506F01E32387F00A34485 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BE506EF1E32387F00A34485 /* main.cpp */; };
 		3BE506F81E3238A400A34485 /* BSTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BE506F61E3238A400A34485 /* BSTree.cpp */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3BE506EA1E32387F00A34485 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
