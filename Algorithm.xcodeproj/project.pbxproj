@@ -21,3 +21,5 @@
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
