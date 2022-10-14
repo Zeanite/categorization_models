@@ -51,3 +51,10 @@
 			sourceTree = "<group>";
 		};
 		3BE506ED1E32387F00A34485 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3BE506EC1E32387F00A34485 /* Algorithm */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
