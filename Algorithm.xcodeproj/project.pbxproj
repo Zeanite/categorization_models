@@ -42,3 +42,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3BE506E31E32387F00A34485 = {
+			isa = PBXGroup;
+			children = (
+				3BE506EE1E32387F00A34485 /* Algorithm */,
+				3BE506ED1E32387F00A34485 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3BE506ED1E32387F00A34485 /* Products */ = {
