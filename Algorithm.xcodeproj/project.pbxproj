@@ -64,3 +64,8 @@
 				3BE506F71E3238A400A34485 /* BSTree.h */,
 				3BE506F61E3238A400A34485 /* BSTree.cpp */,
 				3BE506EF1E32387F00A34485 /* main.cpp */,
+			);
+			path = Algorithm;
+			sourceTree = "<group>";
+			usesTabs = 1;
+		};
