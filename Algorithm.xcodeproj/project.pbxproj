@@ -69,3 +69,6 @@
 			sourceTree = "<group>";
 			usesTabs = 1;
 		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
