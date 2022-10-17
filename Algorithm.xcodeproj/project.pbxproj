@@ -72,3 +72,8 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		3BE506EB1E32387F00A34485 /* Algorithm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BE506F31E32387F00A34485 /* Build configuration list for PBXNativeTarget "Algorithm" */;
+			buildPhases = (
+				3BE506E81E32387F00A34485 /* Sources */,
