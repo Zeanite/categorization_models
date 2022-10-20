@@ -77,3 +77,6 @@
 			buildConfigurationList = 3BE506F31E32387F00A34485 /* Build configuration list for PBXNativeTarget "Algorithm" */;
 			buildPhases = (
 				3BE506E81E32387F00A34485 /* Sources */,
+				3BE506E91E32387F00A34485 /* Frameworks */,
+				3BE506EA1E32387F00A34485 /* CopyFiles */,
+			);
