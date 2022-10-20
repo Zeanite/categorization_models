@@ -80,3 +80,6 @@
 				3BE506E91E32387F00A34485 /* Frameworks */,
 				3BE506EA1E32387F00A34485 /* CopyFiles */,
 			);
+			buildRules = (
+			);
+			dependencies = (
