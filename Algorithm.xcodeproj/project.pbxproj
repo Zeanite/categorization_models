@@ -83,3 +83,6 @@
 			buildRules = (
 			);
 			dependencies = (
+			);
+			name = Algorithm;
+			productName = Algorithm;
