@@ -87,3 +87,6 @@
 			name = Algorithm;
 			productName = Algorithm;
 			productReference = 3BE506EC1E32387F00A34485 /* Algorithm */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
