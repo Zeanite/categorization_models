@@ -90,3 +90,6 @@
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3BE506E41E32387F00A34485 /* Project object */ = {
