@@ -98,3 +98,9 @@
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Freya Hayashi";
 				TargetAttributes = {
+					3BE506EB1E32387F00A34485 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = 3BE506E71E32387F00A34485 /* Build configuration list for PBXProject "Algorithm" */;
