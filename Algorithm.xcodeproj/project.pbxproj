@@ -104,3 +104,10 @@
 				};
 			};
 			buildConfigurationList = 3BE506E71E32387F00A34485 /* Build configuration list for PBXProject "Algorithm" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3BE506E31E32387F00A34485;
