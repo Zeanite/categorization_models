@@ -93,3 +93,8 @@
 
 /* Begin PBXProject section */
 		3BE506E41E32387F00A34485 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "Freya Hayashi";
+				TargetAttributes = {
