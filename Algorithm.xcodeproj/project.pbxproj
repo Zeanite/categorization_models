@@ -111,3 +111,11 @@
 				en,
 			);
 			mainGroup = 3BE506E31E32387F00A34485;
+			productRefGroup = 3BE506ED1E32387F00A34485 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3BE506EB1E32387F00A34485 /* Algorithm */,
+			);
+		};
+/* End PBXProject section */
