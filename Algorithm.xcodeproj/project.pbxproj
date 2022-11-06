@@ -124,3 +124,10 @@
 		3BE506E81E32387F00A34485 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
+			files = (
+				3BE506F81E3238A400A34485 /* BSTree.cpp in Sources */,
+				3BE506F01E32387F00A34485 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
