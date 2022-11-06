@@ -131,3 +131,8 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3BE506F11E32387F00A34485 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
