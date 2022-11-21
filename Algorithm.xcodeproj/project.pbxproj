@@ -175,3 +175,5 @@
 			};
 			name = Debug;
 		};
+		3BE506F21E32387F00A34485 /* Release */ = {
+			isa = XCBuildConfiguration;
