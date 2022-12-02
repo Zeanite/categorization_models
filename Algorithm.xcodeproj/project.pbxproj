@@ -225,3 +225,9 @@
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3BE506E71E32387F00A34485 /* Build configuration list for PBXProject "Algorithm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BE506F11E32387F00A34485 /* Debug */,
