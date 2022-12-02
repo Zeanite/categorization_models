@@ -231,3 +231,8 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3BE506F11E32387F00A34485 /* Debug */,
+				3BE506F21E32387F00A34485 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
