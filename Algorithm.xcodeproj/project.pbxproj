@@ -244,3 +244,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3BE506E41E32387F00A34485 /* Project object */;
+}
