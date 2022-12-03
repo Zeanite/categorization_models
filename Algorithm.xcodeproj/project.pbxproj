@@ -239,3 +239,6 @@
 		3BE506F31E32387F00A34485 /* Build configuration list for PBXNativeTarget "Algorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
+				3BE506F41E32387F00A34485 /* Debug */,
+				3BE506F51E32387F00A34485 /* Release */,
+			);
