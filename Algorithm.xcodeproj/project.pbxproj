@@ -242,3 +242,5 @@
 				3BE506F41E32387F00A34485 /* Debug */,
 				3BE506F51E32387F00A34485 /* Release */,
 			);
+			defaultConfigurationIsVisible = 0;
+		};
