@@ -62,3 +62,5 @@
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
