@@ -72,3 +72,6 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3BE506EB1E32387F00A34485"
+            BuildableName = "Algorithm"
+            BlueprintName = "Algorithm"
