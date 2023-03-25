@@ -79,3 +79,7 @@
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
